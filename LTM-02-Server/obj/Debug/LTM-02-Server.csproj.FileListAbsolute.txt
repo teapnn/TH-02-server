@@ -1,0 +1,9 @@
+D:\LTM-02-Client\LTM-02-Server\bin\Debug\LTM-02-Server.exe.config
+D:\LTM-02-Client\LTM-02-Server\bin\Debug\LTM-02-Server.exe
+D:\LTM-02-Client\LTM-02-Server\bin\Debug\LTM-02-Server.pdb
+D:\LTM-02-Client\LTM-02-Server\obj\Debug\LTM-02-Server.csprojResolveAssemblyReference.cache
+D:\LTM-02-Client\LTM-02-Server\obj\Debug\LTM_02_Server.Form1.resources
+D:\LTM-02-Client\LTM-02-Server\obj\Debug\LTM_02_Server.Properties.Resources.resources
+D:\LTM-02-Client\LTM-02-Server\obj\Debug\LTM-02-Server.csproj.GenerateResource.Cache
+D:\LTM-02-Client\LTM-02-Server\obj\Debug\LTM-02-Server.exe
+D:\LTM-02-Client\LTM-02-Server\obj\Debug\LTM-02-Server.pdb
